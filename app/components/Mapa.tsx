@@ -28,7 +28,7 @@ export default function Mapa() {
 
   const { isLoaded } = useJsApiLoader({
     id: "google-map-script",
-    googleMapsApiKey: "AIzaSyB7ywG-ism2sx8azI5y-f2jQ35QLOZZf4g",
+    googleMapsApiKey: "AIzaSyBIG_DOzlf4NHs9J1BcCM3sAd_wsF-WCo8",
   });
 
   const [map, setMap] = useState(null);
